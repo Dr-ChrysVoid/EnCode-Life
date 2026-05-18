@@ -1,5 +1,7 @@
 
-# 🧬 EnCode-Life
+🧬 EnCode-Life
+
+Decoding inheritance, illuminating life.
 
 ## Project Inspiration
 
