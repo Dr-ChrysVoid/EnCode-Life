@@ -1,34 +1,23 @@
+# 🧬 EnCode-Life
+*Decoding inheritance, illuminating life.*
 
-🧬 EnCode-Life
+An interactive pedigree simulator for visualizing Mendelian inheritance patterns through animated trait flow.
 
-Decoding inheritance, illuminating life.
+## About
 
-## Project Inspiration
-
-As an Entomologist and biology lecturer, I wanted to make pedigree analysis more intuitive and engaging for students.
-
-Traditional pedigree charts are static and often difficult to interpret. This simulator animates inheritance patterns using glowing lines and color-coded pedigree symbols, helping students visually follow the transmission of traits across generations.
-
-This project reflects a multidisciplinary approach that combines biology, artificial intelligence, and web development to enhance genetics education.
+Created to make pedigree analysis more intuitive and engaging for students, this project combines biology, AI-assisted development, and web technologies to bring textbook pedigree charts to life.
 
 ## AI Assistance
 
-This project was developed with assistance from:
-
-- **Grok (xAI)** — initial concept and foundation
-- **Claude (Anthropic)** — core HTML, CSS, and JavaScript implementation
+- **Grok (xAI)** — concept and foundation
+- **Claude (Anthropic)** — core implementation
 - **ChatGPT (OpenAI)** — debugging, biological validation, and refinement
 
-The educational concept, biological oversight, and final design decisions were directed by the author.
+## Acknowledgements
 
->## Acknowledgements
-
-I am deeply grateful to my mother,
-Above all, I thank the Lord Almighty for inspiring this project and guiding me in bringing this idea to life.
-
+With heartfelt gratitude to my mother for her guidance and encouragement, and to the Lord Almighty for the seeding thought process.
 
 ## Author
 
 **Dr. Chrysalis Void** *(Hidden Alias)*  
-M.Sc. (Agricultural Entomology)  
-ASRB-NET Qualified
+M.Sc. (Agricultural Entomology) · ASRB-NET Qualified
